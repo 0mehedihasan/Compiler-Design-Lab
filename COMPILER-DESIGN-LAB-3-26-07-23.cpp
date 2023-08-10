@@ -1,4 +1,3 @@
-//Name: Umair Hossain ID: 21225103103
 #include <bits/stdc++.h>
 using namespace std;
 
