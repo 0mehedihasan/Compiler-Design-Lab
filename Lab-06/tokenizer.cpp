@@ -1,5 +1,4 @@
-//Name: Umair Hossain ID: 21225103103 Intake: 49 Section: 07
-//#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 #include<iostream>
 #include<fstream> //File Stream
 #include<string> // String
