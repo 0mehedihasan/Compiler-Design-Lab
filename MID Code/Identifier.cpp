@@ -1,5 +1,4 @@
 //Identifying Valid Identifier.
-//Umair Hossain 212251013013
 #include<bits/stdc++.h>
 using namespace std;
 int Count =0;
