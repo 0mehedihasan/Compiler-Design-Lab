@@ -1,5 +1,4 @@
 //Identifying Valid Floating Point.
-//Umair Hossain 212251013013
 #include <bits/stdc++.h>
 using namespace std;
 
